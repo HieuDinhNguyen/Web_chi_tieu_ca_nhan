@@ -1,9 +1,12 @@
 # Web_chi_tieu_ca_nhan
 ## 👤 Thông Tin Cá Nhân
 -**Họ và tên**: Nguyễn Đình Hiếu
+
 -**Mã sinh viên**: 23010827
+
 -**Lớp**: CNTT_9
--**Môn họ**c: Xây dựng Web nâng cao (TH3)
+
+-**Môn học**: Xây dựng Web nâng cao (TH3)
 ## Mục đích nghiên cứu
 -Mục đích chính của đề tài này là phát triển một ứng dụng quản lý chi tiêu cá nhân hiệu quả, nhằm giúp người dùng theo dõi, kiểm soát và lập kế hoạch chi tiêu một cách thông minh và hiệu quả. Một trong những mục tiêu quan trọng nhất là xây dựng một ứng dụng dễ dàng sử dụng. Việc thiết kế giao diện và trải nghiệm của người dùng là yếu tố quan trọng giúp tăng cường tính tiếp cận và số lượng sử dụng của người dùng.
 -Ngoài ra ứng dụng cũng cần tích hợp các tính năng cần thiết để hỗ trợ người dung trong việc quản lý tài chính cá nhân. Các tính năng này có thể bao gồm: 
