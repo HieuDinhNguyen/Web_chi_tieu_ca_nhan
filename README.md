@@ -22,11 +22,11 @@
 
 * Và cuối cùng mục tiêu của việc nghiên cứu là tạo ra ứng dụng có khả năng thúc đẩy sự thay đổi hành vi tài chính tích cực cho người dùng. Bằng cách cung cấp các công cụ và thông tin phù hợp, ứng dụng sẽ giúp người dùng xây dựng và duy trì các thói quen quản lý tài chính lành mạnh, từ đó giúp họ đạt được sự ổn định tài chính và tiến gần đến các mục tiêu cá nhân.
 ## Đối tượng và phạm vi nghiên cứu
-a.	Đối tượng nghiên cứu: Hệ thống ứng dụng quản lý chi tiêu.
+*	Đối tượng nghiên cứu: Hệ thống ứng dụng quản lý chi tiêu.
 
-b.	Đối tượng sử dụng: Các cá nhân có nhu cầu quản lý chi tiêu cá nhân.
+*	Đối tượng sử dụng: Các cá nhân có nhu cầu quản lý chi tiêu cá nhân.
 
-c.	Phạm vi nghiên cứu: Tập trung vào phát triển các tính năng quản lý chi tiêu cơ bản và mở rộng để đáp ứng các nhu cầu đặc biệt của người dùng.
+*	Phạm vi nghiên cứu: Tập trung vào phát triển các tính năng quản lý chi tiêu cơ bản và mở rộng để đáp ứng các nhu cầu đặc biệt của người dùng.
 ## Hệ thống sử dụng
 * PHP (Laravel framework)
 
@@ -43,6 +43,7 @@ c.	Phạm vi nghiên cứu: Tập trung vào phát triển các tính năng qu�
 * AJAX JQuery (Phục vụ tìm kiếm)
 ## Sơ đồ usecase tổng quát
 * Sơ đồ tổng quát
+
   ![image](https://github.com/user-attachments/assets/80b1f9b4-1fc1-499b-b870-52ee8224e8e6)
   
 * Sử dụng hệ thống
@@ -50,16 +51,21 @@ c.	Phạm vi nghiên cứu: Tập trung vào phát triển các tính năng qu�
   ![image](https://github.com/user-attachments/assets/5d32886a-ba36-4747-87c4-6b8e9e3e092d)
 ## Đặc tả chức năng
 * Chức năng quản lý hoạt động chi tiêu
+
 ![image](https://github.com/user-attachments/assets/e14a7706-9e39-41fa-a966-911edffa9daf)
 
 * Chức năng quản lý hoạt động thu nhập
+
 ![image](https://github.com/user-attachments/assets/047c2495-de7d-4fb7-bf83-c2613265ff3a)
 ## Sơ đồ tuần tự 
 * Sơ đồ giao diện người dùng
+ 
 * Sơ đồ giao diện quản lý chi tiêu
+
 ![image](https://github.com/user-attachments/assets/478a7458-0ebc-4066-9c00-dd32cab009b6)
 
 * Sơ đồ giao diện quản lý thu nhập
+
 ![image](https://github.com/user-attachments/assets/ed79df02-0ce6-4b34-b4a1-38e6a9ed5ed0)
 
 
