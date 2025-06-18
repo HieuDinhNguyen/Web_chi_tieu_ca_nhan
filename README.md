@@ -72,6 +72,16 @@
 
 ![image](https://github.com/user-attachments/assets/ed79df02-0ce6-4b34-b4a1-38e6a9ed5ed0)
 
+* Sơ đồ quản lý các loại thu
+
+![image](https://github.com/user-attachments/assets/eacad4b9-0380-4d9d-8516-914ee064104f)
+
+* Sơ đồ quản lý các loại chi
+
+![image](https://github.com/user-attachments/assets/aa096d5e-57ad-4c58-83ca-3068942117fd)
+
+
+
 
  
 
