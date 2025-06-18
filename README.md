@@ -61,7 +61,8 @@
 ## Sơ đồ tuần tự 
 * Sơ đồ giao diện người dùng
 
- ![image](https://github.com/user-attachments/assets/4f7757d1-639b-4cdb-aa83-673631c51e59)
+![image](https://github.com/user-attachments/assets/a53b9434-2958-4313-b41e-d53d4e0499ca)
+
 
 * Sơ đồ giao diện quản lý chi tiêu
 
