@@ -60,7 +60,9 @@
 ![image](https://github.com/user-attachments/assets/047c2495-de7d-4fb7-bf83-c2613265ff3a)
 ## Sơ đồ tuần tự 
 * Sơ đồ giao diện người dùng
- 
+
+ ![image](https://github.com/user-attachments/assets/4f7757d1-639b-4cdb-aa83-673631c51e59)
+
 * Sơ đồ giao diện quản lý chi tiêu
 
 ![image](https://github.com/user-attachments/assets/478a7458-0ebc-4066-9c00-dd32cab009b6)
