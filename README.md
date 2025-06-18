@@ -27,4 +27,17 @@ a.	Đối tượng nghiên cứu: Hệ thống ứng dụng quản lý chi tiêu
 b.	Đối tượng sử dụng: Các cá nhân có nhu cầu quản lý chi tiêu cá nhân.
 
 c.	Phạm vi nghiên cứu: Tập trung vào phát triển các tính năng quản lý chi tiêu cơ bản và mở rộng để đáp ứng các nhu cầu đặc biệt của người dùng.
-![image](https://github.com/user-attachments/assets/9ad43261-636a-4100-8c2c-13d7fc1de9b2)
+## Hệ thống sử dụng
+* PHP (Laravel framework)
+
+* Laravel Breeze
+  
+* MySQL (Aiven Cloud)
+  
+* Eloquent ORM (Hệ thống ORM giúp tương tác với CSDL)
+  
+* Frontend & UI (Blade engine, Tailwind CSS, Bootstrap 5)
+  
+* Laravel Security (Framework hỗ trợ)
+  
+* AJAX JQuery (Phục vụ tìm kiếm)
