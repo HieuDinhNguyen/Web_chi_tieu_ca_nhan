@@ -48,7 +48,8 @@
   
 * Sử dụng hệ thống
   
-  ![image](https://github.com/user-attachments/assets/5d32886a-ba36-4747-87c4-6b8e9e3e092d)
+  ![image](https://github.com/user-attachments/assets/c0549c99-5dcc-4dda-9da7-01e470d419f3)
+
 ## Đặc tả chức năng
 * Chức năng quản lý hoạt động chi tiêu
 
