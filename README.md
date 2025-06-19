@@ -89,7 +89,9 @@
 
 ![image](https://github.com/user-attachments/assets/aa096d5e-57ad-4c58-83ca-3068942117fd)
 
+* Link README.MD: https://hieudinhnguyen.github.io/Web_chi_tieu_ca_nhan/
 
+* Link Repo: https://github.com/HieuDinhNguyen/Web_chi_tieu_ca_nhan
 
 
  
