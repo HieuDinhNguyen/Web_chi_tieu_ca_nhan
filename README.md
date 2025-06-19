@@ -58,11 +58,20 @@
 * Chức năng quản lý hoạt động thu nhập
 
 ![image](https://github.com/user-attachments/assets/047c2495-de7d-4fb7-bf83-c2613265ff3a)
+
+* Chức năng quản lý các nguồn thu nhập
+
+![image](https://github.com/user-attachments/assets/459f760e-be04-4871-aa3d-42e32567a307)
+
+* Chức năng quản lý các nguồn chi tiêu
+
+![image](https://github.com/user-attachments/assets/eef5704d-9529-4660-97da-3befd054a7eb)
+
+
 ## Sơ đồ tuần tự 
 * Sơ đồ giao diện người dùng
 
 ![image](https://github.com/user-attachments/assets/a53b9434-2958-4313-b41e-d53d4e0499ca)
-
 
 * Sơ đồ giao diện quản lý chi tiêu
 
