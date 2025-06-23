@@ -93,6 +93,9 @@
 
 * Link Repo: https://github.com/HieuDinhNguyen/Web_chi_tieu_ca_nhan
 
+## Các đối tượng
+* Expense
+
 ```markdown
 namespace App\Models;
 
@@ -110,4 +113,66 @@ class Expense extends Model
         return $this->belongsTo(ExpenseCategory::class, 'expense_category_id');
     }
 }
+* ExpenseCategory
 
+```markdown
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+class ExpenseCategory extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'name'
+    ];
+    public function expenses()
+    {
+        return $this->hasMany(Expense::class);
+    }
+}
+
+* Income
+
+```markdown
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+class Income extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'description',
+        'amount',
+        'date'
+    ];
+    public function category()
+    {
+        return $this->belongsTo(IncomeCategory::class, 'income_category_id');
+    }
+}
+
+* IncomeCategory
+
+```markdown
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+class IncomeCategory extends Model
+{
+    use HasFactory;
+    protected $fillable = [
+        'name'
+    ];
+    public function incomes()
+    {
+        return $this->hasMany(Income::class);
+    }
+}
+
+## Xây dựng CRUD cho các đối tượng
