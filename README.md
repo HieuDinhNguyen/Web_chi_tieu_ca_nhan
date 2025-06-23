@@ -113,8 +113,9 @@ class Expense extends Model
         return $this->belongsTo(ExpenseCategory::class, 'expense_category_id');
     }
 }
-* ExpenseCategory
+```
 
+* ExpenseCategory
 ```markdown
 namespace App\Models;
 
@@ -132,6 +133,7 @@ class ExpenseCategory extends Model
         return $this->hasMany(Expense::class);
     }
 }
+```
 
 * Income
 
@@ -154,6 +156,7 @@ class Income extends Model
         return $this->belongsTo(IncomeCategory::class, 'income_category_id');
     }
 }
+```
 
 * IncomeCategory
 
@@ -174,5 +177,5 @@ class IncomeCategory extends Model
         return $this->hasMany(Income::class);
     }
 }
-
+```
 ## Xây dựng CRUD cho các đối tượng
