@@ -461,6 +461,5 @@ class IncomeCategoryController extends Controller
                     </div>
 ```
 * Có bảo mật XSS và CSRF: Laravel sử dụng token CSRF tự động để bảo vệ form khỏi bị gửi từ site bên ngoài
-
                           Laravel sử dụng {{ }} (escaped output), tự động chuyển ký tự nguy hiểm sang HTML entity
 
