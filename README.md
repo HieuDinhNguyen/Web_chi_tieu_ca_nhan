@@ -460,6 +460,6 @@ class IncomeCategoryController extends Controller
                         <input type="text" name="description" class="form-control" value="{{ old('description', $expense->description) }}">
                     </div>
 ```
-* Có bảo mật XSS và CSRF: Laravel sử dụng token CSRF tự động để bảo vệ form khỏi bị gửi từ site bên ngoài
-                          Laravel sử dụng {{ }} (escaped output), tự động chuyển ký tự nguy hiểm sang HTML entity
+* Có bảo mật CSRF: Laravel sử dụng token CSRF tự động để bảo vệ form khỏi bị gửi từ site bên ngoài
+* Có bảo mật chống XSS: Laravel sử dụng {{ }} (escaped output), tự động chuyển ký tự nguy hiểm sang HTML entity
 
