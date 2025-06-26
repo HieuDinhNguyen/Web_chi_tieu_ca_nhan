@@ -93,6 +93,9 @@
 
 * Link Repo: https://github.com/HieuDinhNguyen/Web_chi_tieu_ca_nhan
 
+## Bảng csdl 
+![image](https://github.com/user-attachments/assets/9815702b-0b03-4264-a267-a56c32c14c8b)
+
 ## Các đối tượng
 * Expense
 ```markdown
