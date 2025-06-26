@@ -11,7 +11,8 @@ class Income extends Model
     protected $fillable = [
         'description',
         'amount',
-        'date'
+        'date',
+        'income_category_id'
     ];
     public function category()
     {
