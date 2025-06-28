@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<<<<<<< HEAD
 <div class="container mt-4">
     <div class="col-md-6 mx-auto">
         <h4 class="mb-4 text-primary"><i class="bi bi-folder-plus"></i> Thêm Danh mục Thu nhập</h4>
@@ -39,4 +40,15 @@
         </div>
     </div>
 </div>
+=======
+    <h4>Thêm Danh mục Thu nhập</h4>
+    <form action="{{ route('income-categories.store') }}" method="POST">
+        @csrf
+        <div class="mb-3">
+            <label>Tên danh mục</label>
+            <input type="text" name="name" class="form-control" required>
+        </div>
+        <button class="btn btn-primary">Lưu</button>
+    </form>
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
 @endsection

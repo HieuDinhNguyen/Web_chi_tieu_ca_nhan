@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<<<<<<< HEAD
 <div class="container mt-4">
     <div class="col-md-6 mx-auto">
         <h4 class="mb-4 text-warning"><i class="bi bi-pencil-square"></i> Sửa Danh mục Thu nhập</h4>
@@ -41,4 +42,15 @@
         </div>
     </div>
 </div>
+=======
+    <h4>Sửa Danh mục Thu nhập</h4>
+    <form action="{{ route('income-categories.update', $incomeCategory) }}" method="POST">
+        @csrf @method('PUT')
+        <div class="mb-3">
+            <label>Tên danh mục</label>
+            <input type="text" name="name" class="form-control" value="{{ $incomeCategory->name }}" required>
+        </div>
+        <button class="btn btn-primary">Cập nhật</button>
+    </form>
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
 @endsection

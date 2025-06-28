@@ -23,7 +23,11 @@ class IncomeCategoryController extends Controller
         $request->validate(['name' => 'required|string|max:255']);
         IncomeCategory::create($request->only('name'));
 
+<<<<<<< HEAD
         return redirect()->route('income-categories.index')->with('success', 'Đã thêm danh mục.');
+=======
+        return redirect()->route('IncomeCategory.index')->with('success', 'Đã thêm danh mục.');
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
     }
 
     public function show(IncomeCategory $incomeCategory)
@@ -42,12 +46,20 @@ class IncomeCategoryController extends Controller
         $request->validate(['name' => 'required|string|max:255']);
         $incomeCategory->update($request->only('name'));
 
+<<<<<<< HEAD
         return redirect()->route('income-categories.index')->with('success', 'Đã cập nhật.');
+=======
+        return redirect()->route('IncomeCategory.index')->with('success', 'Đã cập nhật.');
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
     }
 
     public function destroy(IncomeCategory $incomeCategory)
     {
         $incomeCategory->delete();
+<<<<<<< HEAD
         return redirect()->route('income-categories.index')->with('success', 'Đã xoá danh mục.');
+=======
+        return redirect()->route('IncomeCategory.index')->with('success', 'Đã xoá danh mục.');
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
     }
 }

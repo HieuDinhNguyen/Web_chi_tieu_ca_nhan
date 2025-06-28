@@ -9,7 +9,11 @@
     </div>
 
     <div class="card shadow-sm">
+<<<<<<< HEAD
         <div class="card-body table-responsive">    
+=======
+        <div class="card-body table-responsive">
+>>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
             <table class="table table-hover table-bordered align-middle">
                 <thead class="table-light">
                     <tr>
