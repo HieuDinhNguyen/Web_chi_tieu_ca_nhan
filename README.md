@@ -93,12 +93,11 @@
 
 * Link Repo: https://github.com/HieuDinhNguyen/Web_chi_tieu_ca_nhan
 
-<<<<<<< HEAD
-=======
+* Link demo: https://youtu.be/AsZ90fDY3xs
+
 ## Bảng csdl 
 ![image](https://github.com/user-attachments/assets/9815702b-0b03-4264-a267-a56c32c14c8b)
 
->>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
 ## Các đối tượng
 * Expense
 ```markdown
@@ -468,7 +467,4 @@ class IncomeCategoryController extends Controller
 ```
 * Có bảo mật CSRF: Laravel sử dụng token CSRF tự động để bảo vệ form khỏi bị gửi từ site bên ngoài
 * Có bảo mật chống XSS: Laravel sử dụng {{ }} (escaped output), tự động chuyển ký tự nguy hiểm sang HTML entity
-<<<<<<< HEAD
-=======
 
->>>>>>> 6f9226bf273fd67d72b323de7cefb06724e94a84
